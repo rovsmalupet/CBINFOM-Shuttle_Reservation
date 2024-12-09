@@ -1,0 +1,9 @@
+
+To run the program, you need to change the password, name, and pathname of the database in the DatabaseManager.java file.
+
+
+How to run shuttlesystem on cmd: 
+
+C:\Users\user\Desktop\infom\mp infom>javac *.java
+
+C:\Users\user\Desktop\infom\mp infom>java -cp .;mysql-connector-j-9.1.0.jar DLSU_SRS
